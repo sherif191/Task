@@ -47,6 +47,7 @@
     <Compile Include="PageObjects\AddUSER\Map\AddUserPageMap.cs" />
     <Compile Include="Tests\adduser.cs" />
     <Compile Include="Tests\usersearch,test.cs" />
+    <Compile Include="Utilities\Class1.cs" />
     <Compile Include="Utilities\Locators.cs" />
     <Compile Include="Utilities\Helpers.cs" />
     <Compile Include="PageObjects\Search\searchuser.cs" />
